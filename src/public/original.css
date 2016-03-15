@@ -1,0 +1,8 @@
+body {margin:auto;width:667px;font-family:'Federant';color:white;text-shadow: black 2px 2px, black -2px -2px;background:url(cosmos.png) repeat;font-size:1.1em;text-align:justify;}
+h1 {margin:0;padding:0;height:300px;}
+#container {margin:0;padding:0;}
+#contents {background:url(bg.png) repeat;padding-top:1em;padding-left:2em;padding-right:2em;margin:0;padding-bottom:0.5em;}
+a {color:#ccc;text-decoration:none;}
+a:hover {color:white;}
+h2, h3 {text-align:center;}
+#intent {color:#99ffff;}
