@@ -1,0 +1,3 @@
+[submodule "vendor/git/tumblr-utils"]
+	path = vendor/git/tumblr-utils
+	url = git@github.com:constructions-incongrues/tumblr-utils.git
