@@ -32,6 +32,7 @@ $blogs = [
     'hyperwarlazerquest.tumblr.com',
     'lazerquestgalerie.tumblr.com',
     'natewab.tumblr.com',
+    'nnjzz.tumblr.com',
     'nuclearsword.tumblr.com',
     'paranimalmusic.tumblr.com',
     'pinkposeidon.tumblr.com',
@@ -43,7 +44,7 @@ $blogs = [
     'templevengeance.tumblr.com',
     'theflowerthiefmeetstheatomman.tumblr.com',
     'tintinaucongoapoil.tumblr.com',
-    'www.blueforbirds.net'
+    'www.blueforbirds.net',
 ];
 
 $tplCommand = 'python %s/../vendor/git/tumblr-utils/tumblr_backup.py -a %d --outdir=%s/public/blogs/%s --json --save-video --save-audio %s';
